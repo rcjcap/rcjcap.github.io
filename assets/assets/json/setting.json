@@ -1,0 +1,19 @@
+{
+  "empresa": {
+    "nombre": "Rio Cuarto JC",
+    "pathLogo": "assets/images/logo_RioCuarto_usar3.jpg",
+    "appTitulo": "Rio Cuarto JC",
+    "appTituloShort": "Rio Cuarto JC",
+    "agrupadoresAgencias": [{ "codigo": "RCAPP" }],
+    "agrupadoresAgenciasEx": [],
+	"isRegistro": true,
+	"isLogoHeader": true,
+	"isBackgroundTransparentHeader": false,
+	"uriAuthority": "wssvp2.duckdns.org",
+	"baseUrl": "https://wssvp2.duckdns.org/api",
+	"colorPrimarySwatch": "#ee8939",
+	"contacto": "https://svpstreaming.duckdns.org/_app/_rc/_info/Contacto.pdf",
+	"datosBancarios": "https://svpstreaming.duckdns.org/_app/_rc/_info/DatosBancarios.pdf",
+	"solicitudes": "https://svpstreaming.duckdns.org/_app/_rc/_info/Solicitudes.pdf"
+  }
+}
